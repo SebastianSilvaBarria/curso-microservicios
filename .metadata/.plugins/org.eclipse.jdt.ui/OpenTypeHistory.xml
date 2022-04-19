@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+    <typeInfo handle="=commons-microservicios/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.formacionbdi.microservicios.app.commons.service{CommonsService.java[CommonsService" modifiers="513" timestamp="1646174904612"/>
+    <typeInfo handle="=microservicios-cursos/C:\/Users\/maryi\/.m2\/repository\/jakarta\/persistence\/jakarta.persistence-api\/2.2.3\/jakarta.persistence-api-2.2.3.jar=/maven.pomderived=/true=/=/maven.pomderived=/true=/=/maven.groupId=/jakarta.persistence=/=/maven.artifactId=/jakarta.persistence-api=/=/maven.version=/2.2.3=/=/maven.scope=/compile=/&lt;javax.persistence.criteria(CommonAbstractCriteria.class[CommonAbstractCriteria" modifiers="1537" timestamp="1646082155856"/>
+    <typeInfo handle="=microservicios-cursos/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.formacionbdi.microservicioscursos.app.services{CursoServices.java[CursoServices" modifiers="513" timestamp="1646257581805"/>
+    <typeInfo handle="=commons-microservicios/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.formacionbdi.microservicios.app.commons.service{CommonsServiceImpl.java[CommonsServiceImpl" modifiers="1" timestamp="1646175452811"/>
+</typeInfoHistroy>

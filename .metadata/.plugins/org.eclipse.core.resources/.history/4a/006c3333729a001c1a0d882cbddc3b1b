@@ -1,0 +1,7 @@
+package com.formacionbdi.microservicioscursos.app.services;
+
+import com.formacionbdi.microservicios.app.commons.service.CommonsService;
+
+public interface CursoServices extends CommonsService<E> {
+
+}

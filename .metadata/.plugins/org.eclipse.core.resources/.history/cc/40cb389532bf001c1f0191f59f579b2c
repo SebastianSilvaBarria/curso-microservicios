@@ -1,0 +1,5 @@
+package com.formacionbdi.microserviciosexamenes.models.repository;
+
+public interface ExamenRepository {
+
+}

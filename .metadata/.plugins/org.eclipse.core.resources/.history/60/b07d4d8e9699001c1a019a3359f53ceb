@@ -1,0 +1,2 @@
+spring.application.name=microservicios-zuul
+server.port=8090
